@@ -26,6 +26,6 @@ Mis forks están organizados por variable mediante *topics*:
 - 🟥 [`v3-prevencion-suplantacion`](https://github.com/moisesrojasj?tab=repositories&q=topic%3Av3-prevencion-suplantacion)
 
 ## 📫 Contacto
-- 🆔 ORCID: [0000-0000-0000-0000](https://orcid.org/0000-0000-0000-0000)
-- 💼 LinkedIn: [tu-perfil](https://www.linkedin.com/in/tu-perfil)
+- 🆔 ORCID: [0000-0003-3711-002X](https://orcid.org/0000-0003-3711-002X)
+- 💼 LinkedIn: [Moises Rojas](https://www.linkedin.com/in/moisesrojasj/)
 - 🏛️ COSUSINEACE – Perú
